@@ -1,0 +1,56 @@
+<!doctype html>
+<meta charset="utf-8">
+<article style="max-width:800px;margin:0 auto;line-height:1.55;font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <header>
+    <h1 style="margin:0 0 0.4em">Terms of Service – Zafeiro Research</h1>
+    <p style="margin:0;color:#555"><small>Last updated: 2025-10-07</small></p>
+  </header>
+  <section>
+    <h2>Purpose</h2>
+    <p>Zafeiro Research is used exclusively for <strong>academic research</strong> on public TikTok comments during brand crises in the fast-fashion industry.</p>
+  </section>
+  <section>
+    <h2>Service Nature</h2>
+    <ul>
+      <li>We process <strong>publicly available</strong> data accessed via the TikTok Research API.</li>
+      <li>The tool is not intended for the general public; access is limited to the research team at <strong>[Institution/PI name]</strong>.</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Acceptable Use</h2>
+    <ol>
+      <li>Use is <strong>non-commercial</strong> and solely for research.</li>
+      <li>No attempts to <strong>identify</strong> or target individuals; no republication of individual users’ data.</li>
+      <li>Compliance with TikTok’s Terms of Service and applicable laws (e.g., GDPR).</li>
+    </ol>
+  </section>
+  <section>
+    <h2>Data Sources & Ownership</h2>
+    <p>Content originates from public TikTok posts and comments. Rights remain with the original creators and TikTok. Zafeiro Research claims no ownership over such content.</p>
+  </section>
+  <section>
+    <h2>Prohibited Uses</h2>
+    <ul>
+      <li>Commercial exploitation.</li>
+      <li>Redistribution of individual user data.</li>
+      <li>Bypassing security measures.</li>
+      <li>Any use that violates TikTok’s policies.</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Access & Security</h2>
+    <p>Access to systems and data is restricted to authorized research team members. We apply safeguards such as <em>encryption at rest</em> and <em>access controls</em>.</p>
+  </section>
+  <section>
+    <h2>Disclaimer</h2>
+    <p>The service is provided <strong>“as is”</strong>, without warranties of any kind. The owner and <strong>[Institution]</strong> are not liable for direct or indirect damages arising from its use.</p>
+  </section>
+  <section>
+    <h2>Changes</h2>
+    <p>These Terms may be updated periodically. The current version will be posted on this page.</p>
+  </section>
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:[email@university.xx]">[email@university.xx]</a></p>
+  </section>
+</article>
