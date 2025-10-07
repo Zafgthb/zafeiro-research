@@ -1,0 +1,63 @@
+<!doctype html>
+<meta charset="utf-8">
+<article style="max-width:800px;margin:0 auto;line-height:1.55;font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <header>
+    <h1 style="margin:0 0 0.4em">Privacy Policy – Zafeiro Research</h1>
+    <p style="margin:0;color:#555"><small>Last updated: 2025-10-07</small></p>
+  </header>
+  <section>
+    <h2>Overview</h2>
+    <p>This Policy explains how Zafeiro Research processes <strong>public TikTok comments and metadata</strong> for academic research purposes only.</p>
+  </section>
+  <section>
+    <h2>Data We Process</h2>
+    <ul>
+      <li>Comment-level data and metadata: <code>comment_id</code>, <code>video_id</code>, comment text, <code>create_time</code>, <code>like_count</code>, <code>reply_count</code>.</li>
+      <li>No collection of private or sensitive data. Where feasible, user identifiers are <strong>pseudonymized</strong>.</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Legal Basis & Compliance</h2>
+    <p>Processing is carried out for academic research in the public/legitimate interest and in compliance with TikTok’s terms and applicable data-protection laws (e.g., GDPR).</p>
+  </section>
+  <section>
+    <h2>How We Use the Data</h2>
+    <p>To study discourse dynamics (volume, persistence, sentiment/emotions) related to brand crises. Results are reported only in <strong>aggregate and anonymized</strong> form.</p>
+  </section>
+  <section>
+    <h2>Data Minimization</h2>
+    <p>We collect only what is necessary for the stated research aims and avoid storing full user profiles.</p>
+  </section>
+  <section>
+    <h2>Storage & Retention</h2>
+    <p>Data are retained for up to <strong>12 months</strong> and then deleted or irreversibly anonymized, unless a longer period is required by law or ethics approval.</p>
+  </section>
+  <section>
+    <h2>Security</h2>
+    <p>We apply technical and organizational measures, including <em>encryption at rest</em>, access restricted to the research team, and access logging.</p>
+  </section>
+  <section>
+    <h2>Sharing & Disclosure</h2>
+    <p>We do not sell personal data. Data may be shared with collaborators under academic agreements requiring confidentiality and compliance with this Policy and TikTok’s terms. Information may be disclosed if required by law.</p>
+  </section>
+  <section>
+    <h2>International Transfers</h2>
+    <p>If data are transferred across borders, appropriate safeguards will be applied consistent with applicable data-protection laws.</p>
+  </section>
+  <section>
+    <h2>Your Rights</h2>
+    <p>Requests regarding TikTok account data (access, deletion, etc.) should be directed to TikTok. For questions about this project or this Policy, contact <a href="mailto:[email@university.xx]">[email@university.xx]</a>.</p>
+  </section>
+  <section>
+    <h2>Children</h2>
+    <p>This research does not target or intentionally process data specifically about children.</p>
+  </section>
+  <section>
+    <h2>Changes</h2>
+    <p>We may update this Policy periodically. The current version will be posted on this page.</p>
+  </section>
+  <section>
+    <h2>Contact</h2>
+    <p><strong>[Institution/PI name]</strong> — <a href="mailto:[email@university.xx]">[email@university.xx]</a></p>
+  </section>
+</article>
